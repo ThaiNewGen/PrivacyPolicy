@@ -1,5 +1,5 @@
 Privacy Policy
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at adaricmusic@gmail.com.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email.
 This Privacy Policy describes how Adaric Music (referred to in this Privacy Policy as "Company", "we", "us", or "our"), as the developer of the associated mobile applications (the "App") available for download in the Google Play Store/App Store and other third party app store, or pre-installed on third party devices, collects information when you visit the Site or use the App (separately and collectively as the "Service"). It also explains how we use and disclose the information we collect from you, and your rights in relation to that information. By accessing, visiting or using the Service, you expressly consent to our collection, storage, use and disclosure of your information as described in this Privacy Policy.
 
 Please note that if you disagree with anything in this Privacy Policy, you must not use the Service.
@@ -27,7 +27,7 @@ We aim to serve you ads that reflect your interest. However, we understand that 
 You have the right to opt out from some forms of interest based advertising. Please see our information about your Advertising Choices.
 Your Rights About Data
 Access
-You have a right to know what information we hold about you and, in some cases, to have the information communicated to you. If you wish to exercise this right, please contact us by emailing mailto:adaricmusic@gmail.com letting us know that you wish to exercise your right of access and what information in particular you would like to receive.
+You have a right to know what information we hold about you and, in some cases, to have the information communicated to you. If you wish to exercise this right, please contact us by emailing letting us know that you wish to exercise your right of access and what information in particular you would like to receive.
 
 We reserve the right to ask for reasonable evidence to verify your identity before we provide you with any information. Please note that we may not be able to provide all the information you ask for, for instance if the information includes personal information about another person. Where we are not able to provide you with information that you have asked for, we will endeavor to tell you why.
 Correction
@@ -67,4 +67,4 @@ The company may use the information collected through the Service using cookies,
 
 Your information will be received by the company, and kept by the Law Department, Privacy Officer. For more details, you can contact the chief privacy officer: Mr.W 
 How to Contact Us
-If you have any questions about this Privacy Policy, or if you would like to know what personal data we would access, how and why we would use it, or if you expect a deletion of your personal data, please contact us via email: adaricmusic@gmail.com, or contact the chief privacy officer : Mr.W .
+If you have any questions about this Privacy Policy, or if you would like to know what personal data we would access, how and why we would use it, or if you expect a deletion of your personal data, please contact us via email or contact the chief privacy officer : Mr.W .
